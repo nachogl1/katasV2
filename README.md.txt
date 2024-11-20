@@ -1,1 +1,0 @@
-Katas for da people
