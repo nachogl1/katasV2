@@ -1,3 +1,5 @@
+NOT FINISHED
+
 Consider the string "adfa" and the following rules:
 
 a) each character MUST be changed either to the one before or the one after in alphabet.
