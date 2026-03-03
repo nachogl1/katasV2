@@ -8,7 +8,7 @@ public class TwoSumSolutionV2 {
     }
 
     private static int[] recursiveOuter(int[] inputNumber, int target, int x) {
-        if (x >= inputNumber.length - 1) {
+        if (x > inputNumber.length - 1) { //Not relevant if > or >= due to the premise of the problem. By the time we reach the last index, we knew already the pair or it is null.
             return null;
         }
 
